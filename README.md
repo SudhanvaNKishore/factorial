@@ -19,4 +19,6 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/SudhanvaNKishore/factorial.git
    cd factorial
 
- 
+
+![image](https://github.com/SudhanvaNKishore/factorial/assets/152485885/4035a613-1079-4adf-ac4f-10ac7e7e764b)
+
